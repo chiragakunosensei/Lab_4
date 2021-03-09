@@ -13,7 +13,7 @@ California and Chicago, Illinois.
 ## Acquiring the Data
 
 You are provided the data for this lab in the
-[Lab\_4\_tutorial.zip](data/Lab_4_tutorial.zip) file, which includes the
+[Lab\_4\_tutorial.zip](images/Lab_4_tutorial.zip) file, which includes the
 following files:
 
   - SF\_Tracts is a polygon shapefile representing the US Census Bureau
@@ -398,7 +398,7 @@ should be cited in the text.
 ## Data
 
 Several data sets are provided to you in the
-[Lab\_4\_assignment.zip](data/Lab_4_assignment.zip) file.
+[Lab\_4\_assignment.zip](images/Lab_4_assignment.zip) file.
 
   - Police\_Districts\_Chicago is a polygon shapefile of the police
     districts in Chicago. The `DISTRICT` field is a unique number used
