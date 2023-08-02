@@ -351,7 +351,7 @@ You have two objectives.
 
 ## Deliverables
 
-**Turn in a report in the format described in the syllabus.**
+**Turn in a report in the format described on Canvas.**
 
 Be sure to include the following information:
 
@@ -364,37 +364,7 @@ Be sure to include the following information:
     displayed in an appropriate UTM coordinate system.
 3.  A table that summarizes the average Airbnb price for each police
     district in Chicago.
-
-The **Introduction** section should state the research objective.
-
-The **Data and Methods** section should state the data sets used in the
-analysis (only the data used for the assignment), from where those data
-were acquired, and the GIS operations employed to investigate the
-research objective.
-
-The **Results** section should state the results (i.e. the spatial
-distribution of the density of homicides by police district and the
-spatial patterns of homicides, Airbnb listings, and Airbnb prices). The
-maps and table should be cited in the text here (e.g. Figure 1, Figure
-2, Table 1).
-
-The **Discussion** section should state an interpretation of the
-results. Consider:
-
-1.  Where are the homicides in Chicago concentrated?
-2.  Where are the Airbnb reviews in Chicago concentrated?
-3.  Which police districts have the highest average Airbnb prices? Which
-    have the lowest?
-4.  Is there a relationship, or pattern, between homicides and Airbnb
-    reviews and/or prices?
-5.  If so, what is the form of this relationship and why might it occur?
-6.  The limitations of the analysis, and how the analysis could be
-    improved or expanded.
-
-The **Tables and Figures** section should contain the table and maps
-noted above, each on a separate page with a caption. The table and maps
-should be cited in the text.
-
+    
 ## Data
 
 Several data sets are provided to you in the
